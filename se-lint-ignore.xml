@@ -2,7 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-11.xhtml">
 		<ignore code="t-019">
-			<reason>OK to have periods inside of the graphene-tagged semaphore letters.</reason>
+			<reason>OK to have periods inside of the grapheme-tagged semaphore letters.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
