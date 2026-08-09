@@ -65,7 +65,7 @@
 		<meta property="schema:alternateName" refines="#author">Herman Cyril McNeile</meta>
 		<meta property="schema:alternateName" refines="#author">Sapper</meta>
 		<link href="https://en.wikipedia.org/wiki/H._C._McNeile" refines="#author" rel="schema:sameAs"/>
-		<link href="https://id.loc.gov/authorities/names/n85822242.html" refines="#author" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/no96039399.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Ella Condie Lamb</dc:contributor>
 		<meta property="file-as" refines="#artist">Lamb, Ella Condie</meta>
